@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/segun/static/css/main.f9af296e.css",
-    "main.js": "/segun/static/js/main.0a6b8f5e.js",
+    "main.js": "/segun/static/js/main.3bb90ae0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/segun/static/js/787.28cb0dcd.chunk.js",
     "static/media/landing page.jpg": "/segun/static/media/landing page.7f1492524b31f54d984b.jpg",
     "static/media/about1.jpg": "/segun/static/media/about1.32252bbaf2e792ba686f.jpg",
     "static/media/landingPage1.jpg": "/segun/static/media/landingPage1.40844e29213b531bc74c.jpg",
     "static/media/founder.jpeg": "/segun/static/media/founder.a03eb9521e1833f4ea06.jpeg",
     "index.html": "/segun/index.html",
     "main.f9af296e.css.map": "/segun/static/css/main.f9af296e.css.map",
-    "main.0a6b8f5e.js.map": "/segun/static/js/main.0a6b8f5e.js.map"
+    "main.3bb90ae0.js.map": "/segun/static/js/main.3bb90ae0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/segun/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9af296e.css",
-    "static/js/main.0a6b8f5e.js"
+    "static/js/main.3bb90ae0.js"
   ]
 }
