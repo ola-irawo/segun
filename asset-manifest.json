@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/segun/static/css/main.1a9061b6.css",
-    "main.js": "/segun/static/js/main.fb84f11a.js",
+    "main.css": "/segun/static/css/main.f9f747c8.css",
+    "main.js": "/segun/static/js/main.c150e039.js",
     "static/js/787.28cb0dcd.chunk.js": "/segun/static/js/787.28cb0dcd.chunk.js",
     "static/media/charity.jpg": "/segun/static/media/charity.715f5652de08b5866642.jpg",
-    "static/media/contact5.jpg": "/segun/static/media/contact5.68cf85ba748b10f7a562.jpg",
     "static/media/landing page.jpg": "/segun/static/media/landing page.7f1492524b31f54d984b.jpg",
     "static/media/about1.jpg": "/segun/static/media/about1.32252bbaf2e792ba686f.jpg",
+    "static/media/call.jpg": "/segun/static/media/call.f30a2653ee24e6f8082c.jpg",
+    "static/media/chat.jpg": "/segun/static/media/chat.d73d4e146b5de2992495.jpg",
     "static/media/landingPage1.jpg": "/segun/static/media/landingPage1.40844e29213b531bc74c.jpg",
     "static/media/founder.jpeg": "/segun/static/media/founder.a03eb9521e1833f4ea06.jpeg",
     "index.html": "/segun/index.html",
-    "main.1a9061b6.css.map": "/segun/static/css/main.1a9061b6.css.map",
-    "main.fb84f11a.js.map": "/segun/static/js/main.fb84f11a.js.map",
+    "main.f9f747c8.css.map": "/segun/static/css/main.f9f747c8.css.map",
+    "main.c150e039.js.map": "/segun/static/js/main.c150e039.js.map",
     "787.28cb0dcd.chunk.js.map": "/segun/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a9061b6.css",
-    "static/js/main.fb84f11a.js"
+    "static/css/main.f9f747c8.css",
+    "static/js/main.c150e039.js"
   ]
 }
