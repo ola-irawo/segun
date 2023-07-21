@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/segun/static/css/main.a4124b18.css",
-    "main.js": "/segun/static/js/main.000a50d3.js",
+    "main.css": "/segun/static/css/main.a1b96c96.css",
+    "main.js": "/segun/static/js/main.8cadf0cf.js",
     "static/js/787.28cb0dcd.chunk.js": "/segun/static/js/787.28cb0dcd.chunk.js",
-    "static/media/segun.jpg": "/segun/static/media/segun.7f7940834cb65d63f5b1.jpg",
     "static/media/charity.jpg": "/segun/static/media/charity.715f5652de08b5866642.jpg",
     "static/media/about.jpg": "/segun/static/media/about.095bcd48cb5da41c34f4.jpg",
     "static/media/landing page.jpg": "/segun/static/media/landing page.7f1492524b31f54d984b.jpg",
@@ -14,12 +13,12 @@
     "static/media/mission.jpg": "/segun/static/media/mission.a33561824937a5ec687f.jpg",
     "static/media/vision.jpg": "/segun/static/media/vision.167176528864bcc230e2.jpg",
     "index.html": "/segun/index.html",
-    "main.a4124b18.css.map": "/segun/static/css/main.a4124b18.css.map",
-    "main.000a50d3.js.map": "/segun/static/js/main.000a50d3.js.map",
+    "main.a1b96c96.css.map": "/segun/static/css/main.a1b96c96.css.map",
+    "main.8cadf0cf.js.map": "/segun/static/js/main.8cadf0cf.js.map",
     "787.28cb0dcd.chunk.js.map": "/segun/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4124b18.css",
-    "static/js/main.000a50d3.js"
+    "static/css/main.a1b96c96.css",
+    "static/js/main.8cadf0cf.js"
   ]
 }
